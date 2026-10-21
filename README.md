@@ -10,7 +10,7 @@ Building reliable, observable infrastructure libraries for the .NET ecosystem.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucianodeazevedo)
 [![Website](https://img.shields.io/badge/Website-lra.dev.br-111827?style=for-the-badge&logo=safari&logoColor=white)](https://lra.dev.br)
-[![Email](https://img.shields.io/badge/Email-oluciaano@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oluciaano@gmail.com)
+[![Email](https://img.shields.io/badge/Email-oluciano@outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:oluciano@outlook.com)
 
 </div>
 
