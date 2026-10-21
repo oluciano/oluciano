@@ -1,65 +1,44 @@
- <div align="center">
-      <h1>Hi, I'm Luciano Azevedo 👋</h1>
-      <p>Software Engineer focused on <b>.NET</b>, High-Performance Distributed Systems & Cloud Architecture.</p>
-      <p>Creator and maintainer of <a href="https://github.com/oluciano/NexJob"><b>NexJob</b></a> - a resilient, pluggable background job processing engine for .NET.</p>
-  <p>
-        <a href="https://www.linkedin.com/in/lucianodeazevedo" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-        </a>
-      </p>
-    </div>
-
-### 📊 GitHub Stats
-    
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oluciano&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&hide_border=true" height="150" alt="GitHub Stats" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oluciano&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="Top Languages" />
-      <br />
-      <img src="https://streak-stats.demolab.com?user=oluciano&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="GitHub Streak" />
-    </div>
-    
-### 🚀 Featured Open Source Project
-   <table>
-      <tr>
-        <td width="100%">
-          <b><a href="https://github.com/oluciano/NexJob">NexJob</a></b> - <i>High-performance background job processing library for .NET 8+</i><br><br>
-          • Production-oriented alternative to Hangfire with pluggable storage backends (PostgreSQL, SQL Server, Redis, MongoDB).<br>
-          • Native broker triggers (Azure Service Bus, AWS SQS, Google Pub/Sub, RabbitMQ, Kafka, Salesforce).<br>
-          • Built-in distributed throttling, outbox producers, deadline enforcement, and OpenTelemetry observability.
-        </td>
-      </tr>
-    </table>
-    
-### 🛠️ Tech Stack & Tooling
 
-#### Backend & Languages
+# Luciano Azevedo
+
+**Senior Software Engineer @ Dell Technologies**
+
+.NET · Distributed Systems · Cloud Architecture
+
+Building reliable, observable infrastructure libraries for the .NET ecosystem.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucianodeazevedo)
+[![Website](https://img.shields.io/badge/Website-lra.dev.br-111827?style=for-the-badge&logo=safari&logoColor=white)](https://lra.dev.br)
+[![Email](https://img.shields.io/badge/Email-oluciaano@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oluciaano@gmail.com)
+
+</div>
+
+## Open source
+
+| Project | What it is | Highlights |
+| --- | --- | --- |
+| [**NexJob**](https://github.com/oluciano/NexJob) · [docs](https://oluciano.github.io/NexJob/) | Background job processing for .NET 8+. A production-oriented alternative to Hangfire. | Pluggable storage (PostgreSQL, SQL Server, Redis, MongoDB) · broker triggers (Azure Service Bus, AWS SQS, Google Pub/Sub, RabbitMQ, Kafka, Salesforce) · distributed throttling · outbox producers · deadline enforcement · OpenTelemetry |
+| [**QKafka**](https://github.com/oluciano/QKafka) | Kafka-first messaging library for .NET 8. An MIT-licensed alternative to MassTransit. | Reliable delivery · Kafka-first design · MIT license |
+
+## Focus areas
+
+- Background processing, messaging and event-driven architecture
+- High-performance, observable services (OpenTelemetry)
+- Cloud-native design and developer experience for libraries
+
+## Tech stack
+
+**Languages:** C# · Python · Node.js
+**Data:** PostgreSQL · SQL Server · Redis · MongoDB · Oracle
+**Messaging & infra:** Kafka · RabbitMQ · Docker · Linux
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="40" alt="C#" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" width="40" alt=".NET" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="Python" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="36" alt="C#" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="36" alt=".NET" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" alt="PostgreSQL" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="36" alt="Redis" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="36" alt="Kafka" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="36" alt="RabbitMQ" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="Docker" />
 </p>
-
-#### Databases & Storage
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40" alt="PostgreSQL" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="40" alt="SQL Server" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" width="40" alt="Redis" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="40" alt="MongoDB" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" width="40" alt="Oracle" />
-</p>
-
-#### Messaging & DevOps
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="40" alt="Docker" /> &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="40" width="40" alt="RabbitMQ" /> &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" width="40" alt="Kafka" />
-  </p>
-  
-#### Tools & Environment
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" width="40" alt="Visual Studio" /> &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40" alt="VS Code" /> &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="Git" /> &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="40" alt="Linux" />
-  </p>
